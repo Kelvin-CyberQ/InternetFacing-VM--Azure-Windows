@@ -10,6 +10,7 @@ During this lab, I simulated a real-world threat hunt focused on detecting brute
 * Determine whether any unauthorized access was successful
 * Map findings to MITRE ATT&CK techniques
 * Recommend remediation and hardening steps
+---
 
 ## Investigation Timeline & KQL Queries
 # Windows-target-1 has remained exposed to the internet for several days.
