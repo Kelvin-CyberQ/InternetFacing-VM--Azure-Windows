@@ -1,4 +1,6 @@
-# InternetFacing VM-Azure Windows (Brute-Force Detection Lab)
+## <img width="651" height="496" alt="image" src="https://github.com/user-attachments/assets/cf93f4a2-8600-471a-8c60-3cb71b734ec8" />
+
+
 
 ## Lab Overview
 During this lab, I simulated a real-world threat hunt focused on detecting brute-force login attempts against an internet-facing Windows virtual machine. The investigation centered on windows-target-1, which had been unintentionally exposed to the internet for several days.
