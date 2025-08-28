@@ -1,1 +1,1 @@
-# InternetFacing-VM--Azure-Windows
+# InternetFacing-VM-Azure Windows
